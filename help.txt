@@ -1,0 +1,4 @@
+Available commands:
+
+/list - lists 10 most recent detections
+/mute - mutes notifications from detections, notifications are still accessable via /list

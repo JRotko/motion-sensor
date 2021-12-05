@@ -1,0 +1,12 @@
+wifi_config = {
+    'ssid':'network name',
+    'password':'network password'
+}
+
+utelegram_config = {
+    'token': 'token'
+}
+
+chat_config = {
+    'id': 'chat id from telegram'
+}
